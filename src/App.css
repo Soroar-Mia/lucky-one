@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  color: darkslateblue;
+  color: rgb(55, 42, 141);
 }
 
 .App-logo {
@@ -39,5 +39,5 @@
 }
 .question{
     margin: 10px;
-    padding: 10px;
+    padding: 8px;
 }
