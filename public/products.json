@@ -1,0 +1,86 @@
+[
+  {
+      "id": 1,
+      "img": "https://i.pinimg.com/originals/aa/08/7a/aa087a05ca5472c1569cc9ff63f25e0e.jpg",
+      "name": "Rukaia",
+      "price": 420,
+      "stock": 10
+  },
+  {
+      "id": 2,
+      "img": "https://boimela.in/wp-content/uploads/2020/12/IMG_8204.jpg",
+      "name": "Rokomari fruits",
+      "price": 240,
+      "stock": 18
+  },
+  {
+      "id": 3,
+      "img": " https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604851013l/55858225.jpg",
+      "name": "Physics",
+      "price": 370,
+      "stock": 14
+  },
+  {
+      "id": 4,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/519xiPa9-SL._SX258_BO1,204,203,200_.jpg",
+      "name": "যারা ভোর এনেছিল",
+      "price": 550,
+      "stock": 7
+  },
+  {
+      "id": 5,
+      "img": " https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/rokimg_20140314_82373.GIF",
+      "name": "পাঁচজন দুষ্টু ছেলে",
+      "price": 500,
+      "stock": 12
+  },
+  {
+      "id": 6,
+      "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrrnuDl63FL_yvOniixmp_UCBYNe-JnZoVIw&usqp=CAU",
+      "name": "বোতল ভূত",
+      "price": 450,
+      "stock": 15
+  },
+  {
+      "id": 7,
+      "img": "http://www.boiermela.com/image/cache/boiermela/Books/113-Minute-JamesPatterson-MaxDiLallo-SayeemShams-Books-online-Popular-Online-Bookstore-in-Bangladesh-BanglaBook-BoiMela-BoierMela-BoiyerMela-Rokomari-bookstreet-BookFair-600x600.jpg ",
+      "name": "new books",
+      "price": 320,
+      "stock": 20
+  },
+  {
+      "id": 8,
+      "img": "https://static.aadi.com.bd/__sized__/products/99-8697-reference-book-onnorokom-web-services-ltd-13747-1-crop-c0-5__0-5-400x500-70.jpg ",
+      "name": "books books",
+      "price": 150,
+      "stock": 10
+  },
+  {
+      "id": 9,
+      "img": "https://i.pinimg.com/474x/dd/cd/d8/ddcdd834a0e047288c9766071cb870cb.jpg ",
+      "name": "ULTRABOOST 2 SHOES",
+      "price": 320,
+      "stock": 50
+  },
+  {
+      "id": 10,
+      "img": "https://static.aadi.com.bd/__sized__/products/99-5889-childish-books-onnorokom-web-services-ltd-10939-1-thumbnail-500x500-70.jpg ",
+      "name": "ULTRABOOST 22",
+      "price": 250,
+      "stock": 5
+  },
+  {
+      "id": 11,
+      "img": " http://www.boiermela.com/image/cache/boiermela/Books/Travel-Bangladesh-Challenge-Book-AymanSadiq-Books-online-Popular-Online-Bookstore-in-Bangladesh-BanglaBook-BoiMela-BoierMela-BoiyerMela-Rokomari-bookstreet-BookFair-600x600.jpg ",
+      "name": "ULTRABOOST  SHOES",
+      "price": 420,
+      "stock": 25
+  },
+  {
+      "id": 12,
+      "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366110069l/17824784.jpg ",
+      "name": "ULTRABOOST ",
+      "price": 280,
+      "stock": 20
+  }
+]
